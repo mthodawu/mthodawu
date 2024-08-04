@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mthodawu
-- 👀 I’m interested in Web and App Development
-- 🌱 I’m currently learning Web development using Bootstrap v5.2
-- 💞️ I’m looking to collaborate on a diet app
+- 👀 I’m interested in Software Development and Information Security
+- 🌱 I’m researching Deep Learning architectures and experimenting with them on recyclable waste classification.
+- 💞️ I’m looking to start work in 2025.
 - 📫 How to reach me: mtho.dawu@gmail.com
 
 <!---
