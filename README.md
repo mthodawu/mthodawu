@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mtho!
 - 👀 I’m interested in Web Development, Data Analytics and Information Security
 - 🌱 I’m constantly learning something new through deployments, CTFs, and online courses.
-- 💞️ I’m a freelance web developer. Feel free to check out my agency at https://ilangacreatives.co.za.
+- 🌐 I’m a freelance web developer. Feel free to check out my agency at https://ilangacreatives.co.za.
 - 📫 How to reach me: mtho.dawu@gmail.com
 
 <!---
