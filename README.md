@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mthodawu
-- 👀 I’m interested in Software Development and Information Security
-- 🌱 I’m researching Deep Learning architectures and experimenting with them on recyclable waste classification.
-- 💞️ I’m a final year B.Sc Honours in Computer Science student, looking to start work in 2025.
+- 👀 I’m interested in Web Development, Data Analytics and Information Security
+- 🌱 I’m constantly learning something new through deployments, CTFs, and online courses.
+- 💞️ I’m a freelance web developer. Feel free to check out my agency at https://ilangacreatives.co.za.
 - 📫 How to reach me: mtho.dawu@gmail.com
 
 <!---
